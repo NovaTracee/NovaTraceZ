@@ -1,2 +1,1 @@
--- **Use this inside a LocalScript in Roblox Studio**
 loadstring(game:HttpGet("https://pastefy.app/85FZ55Xt/raw"))()
